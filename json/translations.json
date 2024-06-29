@@ -1,0 +1,10 @@
+{
+    "en": {
+        "title": "Welcome",
+        "description": "This is a sample multi-language website."
+    },
+    "es": {
+        "title": "Bienvenido",
+        "description": "Este es un sitio web multilingüe de ejemplo."
+    }
+}
